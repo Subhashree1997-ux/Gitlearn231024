@@ -1,0 +1,10 @@
+{
+  "name" : "RaviKumar",
+  "age" : 30,
+  "status" : true,
+  "address" : {
+    "city" : "Chennai",
+    "state" : "Tamilnadu"
+  },
+  "courses" : [ "Java", "Python", "Selenium" ]
+}
