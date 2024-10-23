@@ -37,6 +37,7 @@ public class JSONRead {
        for(int i=0;i<jsonArray.size();i++) {
     	   Object object9 = jsonArray.get(i);
     	   System.out.println(object9);
+    	   System.out.println("completed Dev");
        }
 	    
 	
